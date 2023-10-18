@@ -1,28 +1,16 @@
 body{
     background-color: black;
     color: white;
-    
 }
-
-
-h2{
-    text-align: center;
-    font-size: 40px;
-}
-
-
-p{
-    text-align: center;
-    color: blue;
-    
-}
-
-p{
-    color: red;
-}
-
 
 h1{
     text-align: center;
     font-size: 40px;
 }
+
+
+p{
+    text-align: center;
+    color: red;
+}
+
