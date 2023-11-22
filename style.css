@@ -9,7 +9,7 @@ body{
 
 #a{
     width: 20%;
-    background-color: blue;
+    background: linear-gradient(#e30000, #0015ff);
     margin: 10px;
     border-radius: 10px;
     box-shadow: 1px 1px 2px 0px #000000;
