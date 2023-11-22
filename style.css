@@ -4,6 +4,7 @@
 
 body{
     display: flex;
+    margin: 10px auto;
 }
 
 #a{
