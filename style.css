@@ -9,7 +9,7 @@ body{
 #a{
     width: 20%;
     background-color: blue;
-
+    margin: 10px;
     border-radius: 10px;
     box-shadow: 1px 1px 2px 0px #000000;
 }
@@ -17,6 +17,6 @@ body{
 #b{
     width: 20%;
     background-color: red;
- 
+    margin: 10px;
     border-radius: 10px;
 }
