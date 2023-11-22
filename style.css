@@ -2,6 +2,9 @@
     margin: 0;
 }
 
+body{
+    display: block;
+}
 
 #a{
     width: 80%;
