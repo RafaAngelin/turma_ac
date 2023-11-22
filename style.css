@@ -7,7 +7,7 @@ body{
 }
 
 #a{
-    width: 40%;
+    width: 20%;
     background-color: blue;
     margin: 10px auto;
     border-radius: 10px;
@@ -15,7 +15,7 @@ body{
 }
 
 #b{
-    width: 40%;
+    width: 20%;
     background-color: red;
     margin: 10px auto;
     border-radius: 10px;
