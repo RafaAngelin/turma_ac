@@ -1,14 +1,9 @@
-body{
-    margin: 0;
-}
-
-ol{
-    margin: 0;
-}
-
+body,
+ol,
 ul{
     margin: 0;
 }
+
 
 #a{
     background-color: blue;
