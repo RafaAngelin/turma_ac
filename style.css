@@ -2,6 +2,14 @@ body{
     margin: 0;
 }
 
+ol{
+    margin: 0;
+}
+
+ul{
+    margin: 0;
+}
+
 #a{
     background-color: blue;
 }
