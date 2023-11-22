@@ -7,11 +7,12 @@ body{
 }
 
 #a{
-    width: 80%;
+    width: 40%;
     background-color: blue;
     margin: 10px auto;
 }
 
 #b{
+    width: 40%;
     background-color: red;
 }
